@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_outer_classname = "rpcMeta.RpcMetaProto";
+
+message RpcMeta {
+  string serviceName = 1;
+  string methodName = 2;
+}
+
+
