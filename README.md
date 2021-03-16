@@ -1,2 +1,2 @@
 # nprpc
-基protobuf、zookeeper的rpc框架
+基于protobuf、zookeeper的rpc框架
